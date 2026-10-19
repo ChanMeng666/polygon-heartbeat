@@ -1,0 +1,7 @@
+node_modules/
+out/work/
+out/stems/
+*.wav
+*.flac
+*.mp4
+ffmpeg2pass-*

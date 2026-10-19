@@ -1,0 +1,13 @@
+{
+  "name": "polygon-heartbeat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Perfume-style (Yasutaka Nakata / technopop) electropop track composed in code and rendered with real-instrument samplers (FluidSynth, sfizz, VOICEVOX) and ffmpeg.",
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.js",
+    "video": "node src/video.js"
+  },
+  "license": "MIT",
+  "author": "Chan Meng"
+}
