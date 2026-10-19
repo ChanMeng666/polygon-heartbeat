@@ -10,13 +10,12 @@
 
 ## 🎧 Listen
 
-<!--
-  VIDEO PLACEHOLDER
-  1. Open this README in GitHub's web editor (pencil icon).
-  2. Drag out/polygon-heartbeat.mp4 (8.9 MB, under the 10 MB limit) onto this spot.
-  3. GitHub inserts a https://github.com/user-attachments/assets/... link. Keep it on its own line
-     so it renders as an inline player, then delete this comment block.
--->
+
+
+https://github.com/user-attachments/assets/1cac7c32-ae38-45f1-a4ad-25e5270b4e5c
+
+
+
 > 🎬 **Lyric video coming here.** Until then, download [`out/polygon-heartbeat.mp3`](out/polygon-heartbeat.mp3).
 
 The video shows the live waveform and the section the song is in, with Japanese lyrics and English translations timed from the score.
